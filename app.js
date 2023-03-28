@@ -49,5 +49,5 @@ Client.on("messageCreate", (message) => {
 });
 
 Client.login(
-  "MTA5MDI3MjA1NTU2OTY4NjY3MA.GrRGqU.msGIVlGZdvQ0FTDh4CbnfFvwsxNBQ0zprXe5T0"
+  "your bot token here"
 );
